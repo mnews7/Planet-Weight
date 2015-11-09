@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Planet Weight Calculator</string>
+    <string name="calcButton">Calculate!</string>
+    <string name="weighttext">Weight on Earth (Kilograms)</string>
+</resources>
